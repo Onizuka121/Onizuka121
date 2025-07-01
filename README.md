@@ -18,10 +18,6 @@
 
 ###
 
-<h1 align="center">Hi 👋</h1>
-
-###
-
 <br clear="both">
 
 <h2 align="left">👩‍💻  About Me</h2>
