@@ -28,8 +28,6 @@
 
 ###
 
-# 👋 Hello there!
-
 I'm an enthusiastic Computer Science student at university with a strong passion for **cybersecurity** and **software development**.  
 I love diving deep into the world of **web security**, **ethical hacking**, and **cybersecurity**, constantly learning and exploring how to build more secure and efficient systems.
 
