@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="left" height="242" src="https://i.pinimg.com/736x/de/d7/99/ded799c64cdac6a2a6b4b7043e0c12e3.jpg"  />
+<img align="left" height="200" src="https://i.pinimg.com/736x/de/d7/99/ded799c64cdac6a2a6b4b7043e0c12e3.jpg"  />
 
 ###
 
@@ -28,10 +28,30 @@
 
 ###
 
-<p align="left"># 👋 Hello there!<br><br>I'm an enthusiastic Computer Science student at University with a strong passion for cybersecurity, and software development. I love diving deep into the world of **web security**, **ethical hacking**, and **cybersecurity**, constantly learning and exploring how to build more secure and efficient systems.<br><br>
-### 🚀 What I Do<br><br>- 🛡️ Exploring the world of **Web Security** & **Cybersecurity**<br>- 🌐 Building dynamic and responsive **web applications**<br>- 💻 Learning and studying ...<br><br>
-### 🧠 What I’m Learning<br><br>- Penetration testing and ethical hacking techniques  <br>- Advanced JavaScript and modern front-end frameworks  <br>- Backend development and database design<br><br>
-### 🔍 Interests<br><br>- Cybersecurity & digital forensics  <br>- Full-stack web development    <br>- Open-source contributions<br><br>I'm always open to learning and collaborating!</p>
+# 👋 Hello there!
+
+I'm an enthusiastic Computer Science student at university with a strong passion for **cybersecurity** and **software development**.  
+I love diving deep into the world of **web security**, **ethical hacking**, and **cybersecurity**, constantly learning and exploring how to build more secure and efficient systems.
+
+### 🚀 What I Do
+
+- 🛡️ Exploring the world of **Web Security** & **Cybersecurity**  
+- 🌐 Building dynamic and responsive **web applications**  
+- 💻 Learning and studying new technologies
+
+### 🧠 What I’m Learning
+
+- Penetration testing and ethical hacking techniques  
+- Advanced JavaScript and modern front-end frameworks  
+- Backend development and database design
+
+### 🔍 Interests
+
+- Cybersecurity & digital forensics  
+- Full-stack web development  
+- Open-source contributions
+
+I'm always open to learning and collaborating!
 
 ###
 
