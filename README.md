@@ -20,40 +20,6 @@
 
 <br clear="both">
 
-<h2 align="left">👩‍💻  About Me</h2>
-
-###
-
-I'm an enthusiastic Computer Science student at university with a strong passion for **cybersecurity** and **software development**.  
-I love diving deep into the world of **web security**, **ethical hacking**, and **cybersecurity**, constantly learning and exploring how to build more secure and efficient systems.
-
-### 🚀 What I Do
-
-- 🛡️ Exploring the world of **Web Security** & **Cybersecurity**  
-- 🌐 Building dynamic and responsive **web applications**  
-- 💻 Learning and studying new technologies
-
-### 🧠 What I’m Learning
-
-- Penetration testing and ethical hacking techniques  
-- Advanced JavaScript and modern front-end frameworks  
-- Backend development and database design
-
-### 🔍 Interests
-
-- Cybersecurity & digital forensics  
-- Full-stack web development  
-- Open-source contributions
-
-I'm always open to learning and collaborating!
-
-###
-
-<div align="left">
-</div>
-
-###
-
 <h2 align="left">🛠 Language and tools</h2>
 
 ###
@@ -98,6 +64,37 @@ I'm always open to learning and collaborating!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
+
+
+<br clear="both">
+
+<h2 align="left">👩‍💻  About Me</h2>
+
+###
+
+I'm an enthusiastic Computer Science student at university with a strong passion for **cybersecurity** and **software development**.  
+I love diving deep into the world of **web security**, **ethical hacking**, and **cybersecurity**, constantly learning and exploring how to build more secure and efficient systems.
+
+### 🚀 What I Do
+
+- 🛡️ Exploring the world of **Web Security** & **Cybersecurity**  
+- 🌐 Building dynamic and responsive **web applications**  
+- 💻 Learning and studying new technologies
+
+### 🧠 What I’m Learning
+
+- Penetration testing and ethical hacking techniques  
+- Advanced JavaScript and modern front-end frameworks  
+- Backend development and database design
+
+### 🔍 Interests
+
+- Cybersecurity & digital forensics  
+- Full-stack web development  
+- Open-source contributions
+
+I'm always open to learning and collaborating!
+
 ###
 
 <div align="left">
@@ -105,15 +102,17 @@ I'm always open to learning and collaborating!
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<div align="left">
+</div>
 
-###
+
+<h3 align="left">🔥   My Stats :</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Onizuka121&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Onizuka121&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Onizuka121&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Onizuka121&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
 </div>
 
 ###
