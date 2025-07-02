@@ -79,12 +79,11 @@ I love diving deep into the world of **web security**, **ethical hacking**, and 
 
 - 🛡️ Exploring the world of **Web Security** & **Cybersecurity**  
 - 🌐 Building dynamic and responsive **web applications**  
-- 💻 Learning and studying new technologies
+- 💻 Learning and studying ...
 
 ### 🧠 What I’m Learning
 
-- Penetration testing and ethical hacking techniques  
-- Advanced JavaScript and modern front-end frameworks  
+- Penetration testing and ethical hacking techniques    
 - Backend development and database design
 
 ### 🔍 Interests
