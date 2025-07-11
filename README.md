@@ -1,6 +1,9 @@
-<br clear="both">
-
 <img align="left" height="200" src="https://i.pinimg.com/736x/de/d7/99/ded799c64cdac6a2a6b4b7043e0c12e3.jpg"  />
+<h2 align="left">👩‍💻  About Me</h2>
+
+I'm an enthusiastic Computer Science student at university with a strong passion for **cybersecurity** and **software development**.  
+I love diving deep into the world of **web security**, **ethical hacking**, and **cybersecurity**, constantly learning and exploring how to build more secure and efficient systems.
+
 
 ###
 
@@ -62,13 +65,6 @@
 
 
 <br clear="both">
-
-<h2 align="left">👩‍💻  About Me</h2>
-
-###
-
-I'm an enthusiastic Computer Science student at university with a strong passion for **cybersecurity** and **software development**.  
-I love diving deep into the world of **web security**, **ethical hacking**, and **cybersecurity**, constantly learning and exploring how to build more secure and efficient systems.
 
 ### 🚀 What I Do
 
