@@ -1,11 +1,9 @@
+<br class="clear">
 <img align="left" height="200" src="https://i.pinimg.com/736x/de/d7/99/ded799c64cdac6a2a6b4b7043e0c12e3.jpg"  />
 <h2 align="left">👩‍💻  About Me</h2>
 
 I'm an enthusiastic Computer Science student at university with a strong passion for **cybersecurity** and **software development**.  
 I love diving deep into the world of **web security**, **ethical hacking**, and **cybersecurity**, constantly learning and exploring how to build more secure and efficient systems.
-
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
