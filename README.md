@@ -64,25 +64,6 @@ I love diving deep into the world of **web security**, **ethical hacking**, and 
 
 <br clear="both">
 
-### 🚀 What I Do
-
-- 🛡️ Exploring the world of **Web Security** & **Cybersecurity**  
-- 🌐 Building dynamic and responsive **web applications**  
-- 💻 Learning and studying ...
-
-### 🧠 What I’m Learning
-
-- Penetration testing and ethical hacking techniques    
-- Backend development and database design
-
-### 🔍 Interests
-
-- Cybersecurity & digital forensics  
-- Full-stack web development  
-- Open-source contributions
-
-I'm always open to learning and collaborating!
-
 ###
 
 <div align="left">
